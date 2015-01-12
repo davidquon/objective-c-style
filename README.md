@@ -1,5 +1,3 @@
-There are many style guidelines. This one is mine and I like it. 
-
 These guidelines build on the [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide).
 Unless explicitly contradicted below, assume that all of Apple's guidelines apply as well.
 
@@ -56,7 +54,7 @@ UIApplication.sharedApplication.delegate;
 
 ## Spacing
 
-* Always indent using tabs. Be sure to set this preference in Xcode.
+* Always indent using spaces with 4 spaces as the default indentation.  Be sure to set this preference in Xcode.
 * Method braces and other braces (`if`/`else`/`switch`/`while` etc.) always open on the line below the statement and close on a new line.
 
 **For example:**
