@@ -141,7 +141,7 @@ Some of Apple’s APIs write garbage values to the error parameter (if non-NULL)
 
 ## Methods
 
-In method signatures, there should be a space after the scope (-/+ symbol). There should be a space between the method segments.
+In method signatures, there should be a space after the scope (-/+ symbol). There should be a space between the method segments. Methods should *always* be declared/defined on one line.
 
 **For Example**:
 ```objc
